@@ -1,0 +1,15 @@
+UNIST MLIC GitHub Pages — GIF 원격 로딩 버전
+
+index.html 파일 하나를 GitHub 저장소의 최상위에 업로드하세요.
+GitHub 저장소 화면 → Add file → Upload files → index.html 선택 → Commit changes.
+Create new file에 HTML 코드를 붙여 넣지 말고 파일 업로드 메뉴를 사용하세요.
+기존 index.html이 있으면 이 파일로 교체하세요. assets 폴더는 업로드하지 않아도 됩니다.
+숨김 파일 .nojekyll은 함께 올릴 수 있지만 이 구성에서는 필수가 아닙니다.
+
+Settings → Pages → Deploy from a branch → main → /(root) → Save.
+ZIP을 받았다면 압축을 풀고 안의 index.html을 올리세요. ZIP 자체를 올리지 마세요.
+
+이 버전은 기존과 동일한 연구 GIF 4개를 UNIST 원본 서버에서 직접 불러옵니다.
+GIF 화질·프레임은 그대로이며, 방문자가 다운로드하는 GIF 용량은 줄어들지 않습니다.
+UNIST 원본 주소의 접근 가능 여부에 의존합니다. 원본 서버에서 주소를 바꾸거나 접근을 제한하면 GIF가 표시되지 않을 수 있습니다.
+원본 GIF를 GitHub에 함께 저장하려면 기존 전체 패키지를 사용하세요.
